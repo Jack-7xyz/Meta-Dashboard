@@ -123,3 +123,5 @@ Meta-Dashboard/
   * Computes **Contribution Margin** per day and sums it in the header row
   * Uses **Dash DataTable** with custom styling for the table and SUM row
   * Renders two Plotly charts with custom colors and Calibri font
+
+-- Please better format this readme file to include code blocks where applicable
